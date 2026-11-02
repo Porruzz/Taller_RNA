@@ -1,6 +1,6 @@
 # Taller de redes neuronales
 
-Proyecto para estudiantes: propagación hacia adelante, sin entrenamiento.
+Taller para estudiantes: propagación hacia adelante, sin entrenamiento.
 Los siete registros son didácticos; no validan un sistema de seguridad vial.
 
 ## Instalación
